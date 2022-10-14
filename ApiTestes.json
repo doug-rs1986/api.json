@@ -34,14 +34,14 @@
       "nome": "Davi Rodrigues"
       "email": "davi.santos@123.com.br",
       "telefone":11963815717,
-      "idade": 36
+      "idade": 23
     },
     {
       "id": 6,
       "nome": "Gamora Pereira"
       "email": "gamora.yorkshire@123.com.br",
-      "telefone":11963815717,
-      "idade": 36
+      "telefone":11923123123,
+      "idade": 3
     } 
   ]
 }
